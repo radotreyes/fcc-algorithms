@@ -1,0 +1,19 @@
+{
+  "name": "freecodecamp-algorithms",
+  "version": "1.0.0",
+  "description": "Repository of solutions to freeCodeCamp algorithms challenges.",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "keywords": [
+    "freecodecamp",
+    "algorithms"
+  ],
+  "author": "Reuben Reyes",
+  "license": "ISC",
+  "devDependencies": {
+    "enzyme": "^3.3.0",
+    "mocha": "^5.2.0"
+  }
+}
