@@ -1,0 +1,40 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true,
+        "jquery": true,
+        "node": true,
+        "mocha": true
+    },
+    "extends": [
+        "eslint:recommended",
+        "plugin:react/recommended"
+    ],
+    "parserOptions": {
+        "ecmaFeatures": {
+            "experimentalObjectRestSpread": true,
+            "jsx": true
+        },
+        "sourceType": "module"
+    },
+    "plugins": [
+        "react"
+    ],
+    "rules": {
+        "linebreak-style": [
+            "error",
+            "unix"
+        ],
+        "no-constant-condition": "warn",
+        "no-unused-vars": "off",
+        "quotes": [
+            "error",
+            "single"
+        ],
+        "react/jsx-uses-vars": [2],
+        "semi": [
+            "error",
+            "never"
+        ]
+    }
+}
