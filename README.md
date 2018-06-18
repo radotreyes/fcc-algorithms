@@ -1,4 +1,4 @@
-# freeCodeCamp Algorithms
+# freeCodeCamp Algorithm Testing
 A repository containing solutions to freeCodeCamp's algorithms challenges. Primarily for practicing writing unit tests on functions/functional components.
 
 ## Short-Term Goal
