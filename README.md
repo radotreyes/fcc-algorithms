@@ -1,5 +1,5 @@
-# freeCodeCamp Algorithm Testing
-A repository containing solutions to freeCodeCamp's algorithms challenges. Primarily for practicing writing unit tests on functions/functional components.
+# How to Pull the Smoke Alarm
+Platform for teaching BDD/TDD concepts via guided problem solving.
 
 ## Short-Term Goal
 Implement unit tests for several algorithm challenges, and solve or re-solve these challenges with a BDD/TDD approach.
